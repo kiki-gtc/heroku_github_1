@@ -1,12 +1,12 @@
 {
-    "name": "herokugithub1",
+    "name": "naziv-glupost/1",
     "description": "zadatak solo akcija",
     "license": "MIT",
     "require": {
         "php" : ">=7.4"
     },
     "require-dev" : {
-        "phpunit/phpuni" : "^9",
+        "phpunit/phpunit" : "^9",
         "monolog/monolog" : "^2"
     }
 
