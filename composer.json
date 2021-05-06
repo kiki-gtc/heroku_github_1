@@ -1,0 +1,13 @@
+{
+    "name": "herokugithub1",
+    "description": "zadatak solo akcija",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.4"
+    },
+    "require-dev" : {
+        "phpunit/phpuni" : "^9",
+        "monolog/monolog" : "^2"
+    }
+
+}
